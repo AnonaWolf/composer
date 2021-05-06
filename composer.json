@@ -26,7 +26,7 @@
         "composer/ca-bundle": "^1.0",
         "composer/semver": "^1.0",
         "composer/spdx-licenses": "^1.2",
-        "composer/xdebug-handler": "^1.1",
+        "composer/xdebug-handler": "^1.1 || ^2.0",
         "justinrainbow/json-schema": "^3.0 || ^4.0 || ^5.0",
         "psr/log": "^1.0",
         "seld/jsonlint": "^1.4",
